@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Mateus Costa Bichara
+Matricula: 890316
 
 ## Tela de inspeção com navegador
 
+![alt text](<Captura de tela 2025-03-02 131806.png>)
 
 ## Tela de projeto no Replit
 
+![alt text](<Captura de tela 2025-03-02 132531.png>)
